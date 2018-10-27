@@ -3,7 +3,7 @@ Wall of Pimp
 **Wall of pimp** is a desktop background audio visualizer allowing video backgrounds.
 
 #### Screenshot
-![Screenshot software](https://github.com/irondoge/wall-of-pimp/raw/master/capture.webm "screenshot")
+![Screenshot](https://github.com/irondoge/wall-of-pimp/raw/master/capture.gif "screenshot")
 
 ## Download
 
